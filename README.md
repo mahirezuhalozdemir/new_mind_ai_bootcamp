@@ -16,7 +16,7 @@ Bootcamp kapsamında yapay zeka ve veri analitiği odaklı çeşitli projeler ge
    git clone https://github.com/mahirezuhalozdemir/new_mind_ai_bootcamp.git
 2. Proje dizinine gidin:
     ```bash
-    cd repo-adi
+    cd new_mind_ai_bootcamp
 
 4. Gerekli bağımlılıkları kurun ve çalıştırın.
 ## Rapor ve Detaylar
